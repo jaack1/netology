@@ -4,7 +4,7 @@ https://hub.docker.com/repository/docker/jack19874/custom-nginx/general
 
 Задание 2
 
-![Image alt](https://github.com/jaack1/netology/tree/main/05-virt-03-basics/raw/{branch}/{path}/image01.png)
+![Image alt](https://github.com/jaack1/netology/blob/main/05-virt-03-docker-intro/screenshots/image01.png)
 
 Задача 3
 
