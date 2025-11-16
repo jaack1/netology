@@ -16,6 +16,8 @@ https://github.com/jaack1/netology/blob/main/05-virt-04-docker-in-practice/vulne
 
 Задание 4
 
+bash скрипт для 4.3 https://github.com/jaack1/netology/blob/main/05-virt-04-docker-in-practice/task4.sh
+
 Ссылка на fork https://github.com/jaack1/shvirtd-example-python
 
 ![Image alt](https://github.com/jaack1/netology/blob/main/05-virt-04-docker-in-practice/screenshots/task4-img0.png)
