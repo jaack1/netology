@@ -1,0 +1,12 @@
+name,link,severity,package,version,fixedBy
+CVE-2025-8941,https://avd.aquasec.com/nvd/cve-2025-8941,MEDIUM,libpam-modules,1.5.3-5ubuntu5.5,
+CVE-2025-8941,https://avd.aquasec.com/nvd/cve-2025-8941,MEDIUM,libpam-modules-bin,1.5.3-5ubuntu5.5,
+CVE-2025-8941,https://avd.aquasec.com/nvd/cve-2025-8941,MEDIUM,libpam-runtime,1.5.3-5ubuntu5.5,
+CVE-2025-8941,https://avd.aquasec.com/nvd/cve-2025-8941,MEDIUM,libpam0g,1.5.3-5ubuntu5.5,
+CVE-2025-45582,https://avd.aquasec.com/nvd/cve-2025-45582,MEDIUM,tar,1.35+dfsg-3build1,
+CVE-2016-2781,https://avd.aquasec.com/nvd/cve-2016-2781,LOW,coreutils,9.4-3ubuntu6.1,
+CVE-2022-3219,https://avd.aquasec.com/nvd/cve-2022-3219,LOW,gpgv,2.4.4-2ubuntu17.3,
+CVE-2024-2236,https://avd.aquasec.com/nvd/cve-2024-2236,LOW,libgcrypt20,1.10.3-2build1,
+CVE-2024-41996,https://avd.aquasec.com/nvd/cve-2024-41996,LOW,libssl3t64,3.0.13-0ubuntu3.6,
+CVE-2024-56433,https://avd.aquasec.com/nvd/cve-2024-56433,LOW,login,1:4.13+dfsg1-4ubuntu3.2,
+CVE-2024-56433,https://avd.aquasec.com/nvd/cve-2024-56433,LOW,passwd,1:4.13+dfsg1-4ubuntu3.2,
