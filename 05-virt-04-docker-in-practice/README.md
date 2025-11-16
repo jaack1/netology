@@ -30,6 +30,8 @@ https://github.com/jaack1/netology/blob/main/05-virt-04-docker-in-practice/backu
 cron task
 * * * * * /netology/docker-tasks/backup-mysql.sh
 
+![Image alt](https://github.com/jaack1/netology/blob/main/05-virt-04-docker-in-practice/screenshots/task5-img0.png)
+
 Задание 6
 
 ![Image alt](https://github.com/jaack1/netology/blob/main/05-virt-04-docker-in-practice/screenshots/task6-img0.png)
